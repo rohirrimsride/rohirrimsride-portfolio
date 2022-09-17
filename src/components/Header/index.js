@@ -1,19 +1,21 @@
 import React from "react";
 import Nav from "../Nav";
+import headerPic from "../../assets/images/space-pic.png"
 
 function Header() {
 
     return (
-        // <div>    
+        <div>  
             <header>
                 <h1>Dave Barnes Portfolio</h1>
                 <Nav />
-            {/* </header> */}
-            
+                
+            </header>
             <section class="space">
-                <img src="./assets/images/space-pic.png" class="space-pic" alt="North Cascades, Lake Chelan" />
+                <img src={headerPic} class="space-pic" alt="North Cascades, Lake Chelan" />
             </section>
-        </header>
+        </div>
+        
     );
 }
 

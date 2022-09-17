@@ -1,4 +1,5 @@
 import React from "react";
+import aboutPic from "../../assets/images/about-me-img.jpg";
 
 function About() {
 
@@ -11,7 +12,7 @@ function About() {
                         After working PC break-fix for the last six years, I've decided I want to know more about "how the sausage is made" in regards to front end development all the way
                         to back end development.  Our family moved to San Antonio, TX where I've been working for 3M for the past 2.5 years.
                     </p>
-                    <img src="./assets/images/portfolio-pic.png" alt="Dave, backpacking in Glacier Peak Wilderness" />
+                    <img alt="Dave, backpacking in Glacier Peak Wilderness" src={aboutPic} />
                 </div>
         </section>
     );

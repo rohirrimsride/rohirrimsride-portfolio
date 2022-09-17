@@ -6,10 +6,10 @@ function Nav() {
         <nav>
             <ul>
                 <li>
-                    <a href="#about-me">About</a>
+                    <a href="#about-me">About me</a>
                 </li>
                 <li>
-                    <a href="#projects">Projects</a>
+                    <a href="#projects">Portfolio</a>
                 </li>
                 <li>
                     <a href="#contact-me">Contact</a>

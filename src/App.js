@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import './App.css';
+import React from 'react';
+// import './App.css';
 import './assets/css/style.css';
 import './assets/images/space-pic.png';
 import './assets/images/portfolio-pic.png';
@@ -10,8 +10,6 @@ import Projects from './components/Projects';
 
 function App() {
 
-    const [projectsSelected, setProjectSelected] = useState(false);
-    const [resumeSelected, setResumeSelected] = useState(false);
 
 
     return (
@@ -23,13 +21,11 @@ function App() {
                 
             </Header>
             
-            {!projectsSelected || !resumeSelected ? (
-                <>
+           
                     <About />
-                </>
-            ) : (
-                <Projects />
-            )}
+              
+                    <Projects />
+           
         
             <Footer />
         

@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import '../assets/css/style.css';
 import '../assets/images/space-pic.png';
 import '../assets/images/portfolio-pic.png';
+import '../assets/images/linkedin34.png';
 
 import Header from './Header';
 import About from './About';

@@ -13,7 +13,7 @@ import Footer from './Footer';
 
 function PageCompiler() {
 
-    const [displayedPage, setDisplayedPage] = useState('Portfolio');
+    const [displayedPage, setDisplayedPage] = useState('About');
 
     const activePage = () => {
         if (displayedPage === 'About') {

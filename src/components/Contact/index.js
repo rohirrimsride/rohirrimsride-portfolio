@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 
 function Contact() {
-    const [validName, setValidName] = useState({ name: '' })
-    const [validEmail, setValidEmail] = useState({ email: '' });
-    const [validMessage, setValidMessage] = useState({ message: '' });
+    const [validName, setValidName] = useState('')
+    const [validEmail, setValidEmail] = useState('');
+    const [validMessage, setValidMessage] = useState('');
 
     const isValidName = (name => {
         return /[a-zA-Z]/.test(name)
@@ -49,13 +49,13 @@ function Contact() {
             </div>
             <form className="contactForm">
                 <label for="name">Name:</label>
-                <input type="text" id="name" onBlur={checkName} name="name" className="contactInput" />
+                <input type="text" id="name" placeholder={validName} onBlur={checkName} name="name" className="contactInput" />
 
                 <label for="email">Email:</label>
-                <input type="text" id="email" onBlur={checkEmail} name="email" className="contactInput" />
+                <input type="text" id="email" placeholder={validEmail} onBlur={checkEmail} name="email" className="contactInput" />
 
                 <label for="message">Message:</label>
-                <textarea id="message" onBlur={checkMessage} name="message" cols="30" rows="15" className="contactInput"></textarea>
+                <textarea id="message" placeholder={validMessage} onBlur={checkMessage} name="message" cols="30" rows="15" className="contactInput"></textarea>
                 {error && <h4 className="error">{error}</h4>}
                 <button type="submit" className="btn">Submit</button>
             </form>

@@ -48,6 +48,14 @@ header nav ul li a {
     font-size: 20px;
 }
 
+.active-nav {
+    color: var(--text-color);
+}
+
+.inactive-nav {
+    color: var(--secondary-text-color);
+}
+
 .space {
     display: block;
     margin-bottom: .5%;
@@ -118,11 +126,13 @@ header nav ul li a {
 .card {
     display: flex;
     flex-direction: row;
+    margin: .5% 0%;
 }
 
 .card-reverse {
     display: flex;
     flex-direction: row-reverse;
+    margin: .5% 0%;
 }
 
 .card-scaling {
@@ -139,7 +149,6 @@ header nav ul li a {
 
 .project-title {
     display: flex;
-    justify-content: center;
     align-items: center;
     flex: 33%;
     border-left: 2px solid var(--border-color);

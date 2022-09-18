@@ -2,13 +2,13 @@ import React from "react";
 import Nav from "../Nav";
 import headerPic from "../../assets/images/space-pic.png"
 
-function Header() {
+function Header({ displayedPage, pageChanger }) {
 
     return (
         <div>  
             <header>
                 <h1>Dave Barnes Portfolio</h1>
-                <Nav />
+                <Nav displayedPage={displayedPage} pageChanger={pageChanger}/>
                 
             </header>
             <section class="space">

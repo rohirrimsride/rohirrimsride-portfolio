@@ -15,6 +15,7 @@ body {
     margin: 0%;
 }
 
+/* Header Begins */
 header {
     display: flex;
     justify-content: space-between;
@@ -64,7 +65,9 @@ header nav ul li a {
 .space-pic {
     width: 100%;
 }
+/* Header Ends */
 
+/* Page Title Style */
 .section-title {
     margin: auto .5%;
     padding-right: 1%;
@@ -72,6 +75,7 @@ header nav ul li a {
     font-size: 200%;
 }
 
+/* About me Begins */
 .about-me {
     display: flex;
     padding: 1%;
@@ -107,7 +111,9 @@ header nav ul li a {
     height: 100%;
     width: 100%;
 }
+/* About me Ends */
 
+/* Portfolio Begins */
 .projects {
     display: flex;
     flex-direction: row;
@@ -159,7 +165,7 @@ header nav ul li a {
 
 .project-title-rg {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     flex: 33%;
     border-right: 2px solid var(--border-color);
@@ -202,14 +208,55 @@ header nav ul li a {
 .project-img:hover {
     filter: blur(0px);
 }
+/* Portfolio Ends */
 
-.contact-me {
-    border-top: 3px solid var(--border-color);
-    padding: 1%;
+/* Contact Form */
+.contactContainer {
     display: flex;
+    flex-direction: column;
     align-items: center;
+    margin: 3% 0%;
 }
 
+.section-title-contact {
+    padding-right: 1%;
+    font-size: 200%;
+}
+
+.contactForm {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 30%;
+    color: var(--text-color);
+    font-size: 115%;
+}
+
+.contactInput {
+    color: var(--text-color);
+    outline-color: var(--border-color);
+    margin-bottom: 3%;
+    padding: 2%;
+    font-size: 100%;
+}
+
+.error {
+    color: var(--text-color);
+    font-size: 110%;
+}
+
+.btn {
+    background-color: var(--text-color);
+    color: black;
+    font-size: 100%;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* Contact Ends */
+
+/* Footer Begins */
 .links {
     display: flex;
     justify-content: center;
@@ -229,6 +276,7 @@ header nav ul li a {
 .h3-start {
     color: var(--secondary-text-color);
 }
+/* Footer Ends */
 
 /* media queries for smaller size screens/devices */
 @media screen and (max-width: 1200px) {

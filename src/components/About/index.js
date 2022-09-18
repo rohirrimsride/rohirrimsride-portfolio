@@ -4,8 +4,8 @@ import aboutPic from "../../assets/images/about-me-img.jpg";
 function About() {
 
     return (
-        <section id="about-me" class="about-me">
-                <h2 class="section-title">About</h2>
+        <section id="About" class="about-me">
+                <h2 class="section-title">About me</h2>
                 <div class="about-scaling">    
                     <p>
                         I'm Dave Barnes.  I am a husband, father and adventurer of the open trail.  I've just begun the first steps of my journey into being a full stack web developer.   

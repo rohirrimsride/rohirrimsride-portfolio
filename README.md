@@ -6,7 +6,7 @@
   ## Table of Contents
   - [Usage](#usage)
   - [Screenshot](#screenshot)
-  - [Deployed Site](#deployed site)
+  - [Deployed Site](#deployedsite)
   - [License](#license)
   - [Questions](#questions)
 

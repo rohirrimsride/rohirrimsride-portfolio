@@ -1,7 +1,7 @@
   # Rohirrimsride Portfolio
 
   ## Description
-  This is a personal portfolio of projects I've worked on, information about who I am, contact methods and my resume.
+  This is a personal portfolio of projects I've worked on, information about who I am, contact methods and my resume.  Built using React.
 
   ## Table of Contents
   - [Installation](#installation)

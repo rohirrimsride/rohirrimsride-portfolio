@@ -14,17 +14,17 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ## Installation
-  N/A
-
   ## Usage
   Checkout my work.
+  
+  ## Screenshot
+  
 
-  ## Contribute
-  N/A
+  ## Deployed Site
+  [Rohirrimsride-Portfolio](http://rohirrimsride.github.io/rohirrimsride-portfolio)
 
   ## License
-  [ISC](https://opensource.org/licenses/ISC)
+  None
 
   ## Tests
   N/A

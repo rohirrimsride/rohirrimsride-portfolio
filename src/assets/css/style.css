@@ -208,6 +208,40 @@ header nav ul li a {
 }
 /* Portfolio Ends */
 
+/* Resume Begins */
+/* .resumeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+
+.profs-list {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1% 2%;
+}
+
+.download {
+    display: flex;
+    justify-content: center;
+}
+
+.profs-title {
+    color: var(--secondary-text-color);
+    font-size: x-large;
+}
+
+.list {
+    font-size: larger;
+    list-style-type: square;
+}
+
+.resume {
+    text-decoration: none;
+    color: var(--secondary-text-color);
+}
+/* Resume Ends */
+
 /* Contact Form */
 .contactContainer {
     display: flex;
@@ -266,6 +300,7 @@ header nav ul li a {
 
 .links {
     margin: 10px;
+    
 }
 
 .footer {
@@ -386,6 +421,10 @@ header nav ul li a {
         border-right: 0px;
         text-align: center;
     }
+
+    .contact-form {
+        width: 80%;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -406,5 +445,9 @@ header nav ul li a {
 
     .contact-me {
         display: block;
+    }
+
+    .contact-form {
+        width: 90%;
     }
 }

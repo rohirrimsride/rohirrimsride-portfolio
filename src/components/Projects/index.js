@@ -54,7 +54,7 @@ function Projects() {
                             Technically Speaking is an tech arcticle compilation website where tech writers and readers can link to articles 
                             that they've written or like and share them with the community. 
                         </p>
-                        <a href="https://github.com/rohirrimsride/Technically-Speaking" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
+                        <a href="https://github.com/rohirrimsride/Technically-Speaking" rel='noreferrer' target="_blank" className="links"><img src={GitHub} className="links" alt="github icon" /></a>
                         <a href="https://technically-speaking-2022.herokuapp.com/" rel='noreferrer' target="_blank"><img src={TechSpeak} class="project-img" alt="pizza-hunt" /></a>                       
                     </div>
                 </div>

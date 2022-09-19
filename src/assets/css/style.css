@@ -209,12 +209,6 @@ header nav ul li a {
 /* Portfolio Ends */
 
 /* Resume Begins */
-/* .resumeContainer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-} */
-
 .profs-list {
     display: flex;
     justify-content: space-evenly;

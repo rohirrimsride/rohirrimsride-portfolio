@@ -4,11 +4,10 @@
   This is a personal portfolio of projects I've worked on, information about who I am, contact methods and my resume.  Built using React.
 
   ## Table of Contents
-  - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribute](#contribute)
+  - [Screenshot](#screenshot)
+  - [Deployed Site](#deployed site)
   - [License](#license)
-  - [Tests](#tests)
   - [Questions](#questions)
 
   ## Usage

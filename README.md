@@ -1,6 +1,3 @@
-
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
   # Rohirrimsride Portfolio
 
   ## Description
@@ -25,9 +22,6 @@
 
   ## License
   None
-
-  ## Tests
-  N/A
 
   ## Questions
   If you have any questions please contact me using either of these options.

@@ -154,6 +154,7 @@ header nav ul li a {
 .project-title {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
     flex: 33%;
     border-left: 2px solid var(--border-color);
     margin: auto;
@@ -209,12 +210,6 @@ header nav ul li a {
 /* Portfolio Ends */
 
 /* Resume Begins */
-/* .resumeContainer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-} */
-
 .profs-list {
     display: flex;
     justify-content: space-evenly;

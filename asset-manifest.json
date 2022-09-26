@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rohirrimsride-portfolio/static/css/main.6ff07a72.css",
+    "main.css": "/rohirrimsride-portfolio/static/css/main.cb54b8f6.css",
     "main.js": "/rohirrimsride-portfolio/static/js/main.6c89252e.js",
     "static/js/787.7cccd6c0.chunk.js": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js",
     "static/media/photo-port.png": "/rohirrimsride-portfolio/static/media/photo-port.5bff248c1587538241e4.png",
@@ -14,12 +14,12 @@
     "static/media/IT-Resume.pdf": "/rohirrimsride-portfolio/static/media/IT-Resume.34e28369d7d7ce46862d.pdf",
     "static/media/jot-that-thought.png": "/rohirrimsride-portfolio/static/media/jot-that-thought.249efdd1089e9a5b25cd.png",
     "index.html": "/rohirrimsride-portfolio/index.html",
-    "main.6ff07a72.css.map": "/rohirrimsride-portfolio/static/css/main.6ff07a72.css.map",
+    "main.cb54b8f6.css.map": "/rohirrimsride-portfolio/static/css/main.cb54b8f6.css.map",
     "main.6c89252e.js.map": "/rohirrimsride-portfolio/static/js/main.6c89252e.js.map",
     "787.7cccd6c0.chunk.js.map": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ff07a72.css",
+    "static/css/main.cb54b8f6.css",
     "static/js/main.6c89252e.js"
   ]
 }

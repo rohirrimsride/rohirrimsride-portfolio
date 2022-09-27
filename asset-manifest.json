@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rohirrimsride-portfolio/static/css/main.cb54b8f6.css",
-    "main.js": "/rohirrimsride-portfolio/static/js/main.6c89252e.js",
+    "main.js": "/rohirrimsride-portfolio/static/js/main.fff67a44.js",
     "static/js/787.7cccd6c0.chunk.js": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js",
     "static/media/photo-port.png": "/rohirrimsride-portfolio/static/media/photo-port.5bff248c1587538241e4.png",
     "static/media/about-me-img.jpg": "/rohirrimsride-portfolio/static/media/about-me-img.243d6561d1bed492e0ae.jpg",
@@ -15,11 +15,11 @@
     "static/media/jot-that-thought.png": "/rohirrimsride-portfolio/static/media/jot-that-thought.249efdd1089e9a5b25cd.png",
     "index.html": "/rohirrimsride-portfolio/index.html",
     "main.cb54b8f6.css.map": "/rohirrimsride-portfolio/static/css/main.cb54b8f6.css.map",
-    "main.6c89252e.js.map": "/rohirrimsride-portfolio/static/js/main.6c89252e.js.map",
+    "main.fff67a44.js.map": "/rohirrimsride-portfolio/static/js/main.fff67a44.js.map",
     "787.7cccd6c0.chunk.js.map": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb54b8f6.css",
-    "static/js/main.6c89252e.js"
+    "static/js/main.fff67a44.js"
   ]
 }

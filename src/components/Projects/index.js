@@ -73,8 +73,8 @@ function Projects() {
                     <h3 class="project-title-rg">Photo Port</h3>
                     <div class="card-scaling-rg">
                         <p class="project-info-rg">
-                            Technically Speaking is an tech arcticle compilation website where tech writers and readers can link to articles 
-                            that they've written or like and share them with the community. 
+                        Photo Port is a class project focusing on building an SPA using React.  The website shows off the work of a photographer, 
+                        using modals to bring the pictures up close as well as adding a contact form for visitors who would like to get in touch with the photographer.
                         </p>
                         <a href="https://github.com/rohirrimsride/photo-port" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
                         <a href="https://rohirrimsride.github.io/photo-port/" rel='noreferrer' target="_blank"><img src={PhotoPort} class="project-img" alt="port" /></a>                       

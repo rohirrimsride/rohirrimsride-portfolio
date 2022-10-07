@@ -7,6 +7,7 @@ import TechSpeak from '../../assets/images/technically-speaking.png';
 import RunBuddy from '../../assets/images/hero-bg.jpg';
 import PhotoPort from '../../assets/images/photo-port.png';
 import GitHub from '../../assets/images/GitHub32.png';
+import Sports from '../../assets/images/360sports.png';
 
 function Projects() {
 
@@ -23,6 +24,17 @@ function Projects() {
                         </p>
                         <a href="https://github.com/gnartistic/hobbyXchange" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
                         <a href="https://hobbyxchange.herokuapp.com/" rel='noreferrer' target="_blank"><img src={HobbyXChange} class="project-img" alt="robot" /></a>                        
+                    </div>
+                </div>
+                <div class="card">
+                    <h3 class="project-title-rg">Technically Speaking</h3>
+                    <div class="card-scaling-rg">
+                        <p class="project-info-rg">
+                            Technically Speaking is an tech arcticle compilation website where tech writers and readers can link to articles 
+                            that they've written or like and share them with the community. 
+                        </p>
+                        <a href="https://github.com/rohirrimsride/Technically-Speaking" rel='noreferrer' target="_blank" className="links"><img src={GitHub} className="links" alt="github icon" /></a>
+                        <a href="https://technically-speaking-2022.herokuapp.com/" rel='noreferrer' target="_blank"><img src={TechSpeak} class="project-img" alt="pizza-hunt" /></a>                       
                     </div>
                 </div>
                 <div class="card">
@@ -47,17 +59,6 @@ function Projects() {
                         <a href="https://jot-that-thought.herokuapp.com/" rel='noreferrer' target="_blank"><img src={JotThatThought} class="project-img" alt="jot that thought" /></a>                                                    
                     </div>   
                 </div>
-                <div class="card">
-                    <h3 class="project-title-rg">Technically Speaking</h3>
-                    <div class="card-scaling-rg">
-                        <p class="project-info-rg">
-                            Technically Speaking is an tech arcticle compilation website where tech writers and readers can link to articles 
-                            that they've written or like and share them with the community. 
-                        </p>
-                        <a href="https://github.com/rohirrimsride/Technically-Speaking" rel='noreferrer' target="_blank" className="links"><img src={GitHub} className="links" alt="github icon" /></a>
-                        <a href="https://technically-speaking-2022.herokuapp.com/" rel='noreferrer' target="_blank"><img src={TechSpeak} class="project-img" alt="pizza-hunt" /></a>                       
-                    </div>
-                </div>
                 <div class="card-reverse">
                     <h3 class="project-title">Run Buddy</h3> 
                     <div class="card-scaling">
@@ -73,11 +74,23 @@ function Projects() {
                     <h3 class="project-title-rg">Photo Port</h3>
                     <div class="card-scaling-rg">
                         <p class="project-info-rg">
-                        Photo Port is a class project focusing on building an SPA using React.  The website shows off the work of a photographer, 
-                        using modals to bring the pictures up close as well as adding a contact form for visitors who would like to get in touch with the photographer.
+                            Photo Port is a class project focusing on building an SPA using React.  The website shows off the work of a photographer, 
+                            using modals to bring the pictures up close as well as adding a contact form for visitors who would like to get in touch with the photographer.
+                        </p>
+                        <a href="https://github.com/mherring11/360-sports" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
+                        <a href="https://o360-sports.herokuapp.com/" rel='noreferrer' target="_blank"><img src={PhotoPort} class="project-img" alt="port" /></a>                       
+                    </div>
+                </div>
+                <div class="card">
+                    <h3 class="project-title-rg">360 Sports</h3>
+                    <div class="card-scaling-rg">
+                        <p class="project-info-rg">
+                            Just like a 360 dunk, 360 Sports is sure to get users out of their seats and on their feet. 
+                            360 Sports is a web application that provides users with the means to connect with and engage with other sports enthusiasts. 
+                            It currently offers the ability to post items that you no longer need or want, or to find items that you do want.
                         </p>
                         <a href="https://github.com/rohirrimsride/photo-port" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
-                        <a href="https://rohirrimsride.github.io/photo-port/" rel='noreferrer' target="_blank"><img src={PhotoPort} class="project-img" alt="port" /></a>                       
+                        <a href="https://rohirrimsride.github.io/photo-port/" rel='noreferrer' target="_blank"><img src={Sports} class="project-img" alt="port" /></a>                       
                     </div>
                 </div>
             </div>

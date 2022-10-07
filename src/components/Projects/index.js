@@ -38,6 +38,17 @@ function Projects() {
                     </div>
                 </div>
                 <div class="card">
+                    <h3 class="project-title">Photo Port</h3>
+                    <div class="card-scaling">
+                        <p class="project-info">
+                            Photo Port is a class project focusing on building an SPA using React.  The website shows off the work of a photographer, 
+                            using modals to bring the pictures up close as well as adding a contact form for visitors who would like to get in touch with the photographer.
+                        </p>
+                        <a href="https://github.com/mherring11/360-sports" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
+                        <a href="https://o360-sports.herokuapp.com/" rel='noreferrer' target="_blank"><img src={PhotoPort} class="project-img" alt="port" /></a>                       
+                    </div>
+                </div>
+                <div class="card">
                     <h3 class="project-title-rg">Pizza Hunt</h3>
                     <div class="card-scaling-rg">
                         <p class="project-info-rg">
@@ -59,28 +70,6 @@ function Projects() {
                         <a href="https://jot-that-thought.herokuapp.com/" rel='noreferrer' target="_blank"><img src={JotThatThought} class="project-img" alt="jot that thought" /></a>                                                    
                     </div>   
                 </div>
-                <div class="card-reverse">
-                    <h3 class="project-title">Run Buddy</h3> 
-                    <div class="card-scaling">
-                        <p class="project-info">
-                            The Run Buddy project was a hypothetical client requesting a final product that matches what you'll find 
-                            at the published page.  I was given a page of fairly generic starting code and a list of features to add.
-                        </p>
-                        <a href="https://github.com/rohirrimsride/run-buddy" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
-                        <a href="https://rohirrimsride.github.io/run-buddy/" rel='noreferrer' target="_blank"><img src={RunBuddy} class="project-img" alt="run buddy" /></a>                                                    
-                    </div>
-                </div>
-                <div class="card">
-                    <h3 class="project-title-rg">Photo Port</h3>
-                    <div class="card-scaling-rg">
-                        <p class="project-info-rg">
-                            Photo Port is a class project focusing on building an SPA using React.  The website shows off the work of a photographer, 
-                            using modals to bring the pictures up close as well as adding a contact form for visitors who would like to get in touch with the photographer.
-                        </p>
-                        <a href="https://github.com/mherring11/360-sports" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
-                        <a href="https://o360-sports.herokuapp.com/" rel='noreferrer' target="_blank"><img src={PhotoPort} class="project-img" alt="port" /></a>                       
-                    </div>
-                </div>
                 <div class="card">
                     <h3 class="project-title-rg">360 Sports</h3>
                     <div class="card-scaling-rg">
@@ -91,6 +80,17 @@ function Projects() {
                         </p>
                         <a href="https://github.com/rohirrimsride/photo-port" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
                         <a href="https://rohirrimsride.github.io/photo-port/" rel='noreferrer' target="_blank"><img src={Sports} class="project-img" alt="port" /></a>                       
+                    </div>
+                </div>
+                <div class="card-reverse">
+                    <h3 class="project-title">Run Buddy</h3> 
+                    <div class="card-scaling">
+                        <p class="project-info">
+                            The Run Buddy project was a hypothetical client requesting a final product that matches what you'll find 
+                            at the published page.  I was given a page of fairly generic starting code and a list of features to add.
+                        </p>
+                        <a href="https://github.com/rohirrimsride/run-buddy" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
+                        <a href="https://rohirrimsride.github.io/run-buddy/" rel='noreferrer' target="_blank"><img src={RunBuddy} class="project-img" alt="run buddy" /></a>                                                    
                     </div>
                 </div>
             </div>

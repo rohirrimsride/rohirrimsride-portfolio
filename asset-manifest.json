@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rohirrimsride-portfolio/static/css/main.cb54b8f6.css",
-    "main.js": "/rohirrimsride-portfolio/static/js/main.2d664442.js",
+    "main.css": "/rohirrimsride-portfolio/static/css/main.2777e17e.css",
+    "main.js": "/rohirrimsride-portfolio/static/js/main.ce2282af.js",
     "static/js/787.7cccd6c0.chunk.js": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js",
     "static/media/photo-port.png": "/rohirrimsride-portfolio/static/media/photo-port.5bff248c1587538241e4.png",
     "static/media/360sports.png": "/rohirrimsride-portfolio/static/media/360sports.7eea54eb358e55b82f37.png",
@@ -15,12 +15,12 @@
     "static/media/IT-Resume.pdf": "/rohirrimsride-portfolio/static/media/IT-Resume.34e28369d7d7ce46862d.pdf",
     "static/media/jot-that-thought.png": "/rohirrimsride-portfolio/static/media/jot-that-thought.249efdd1089e9a5b25cd.png",
     "index.html": "/rohirrimsride-portfolio/index.html",
-    "main.cb54b8f6.css.map": "/rohirrimsride-portfolio/static/css/main.cb54b8f6.css.map",
-    "main.2d664442.js.map": "/rohirrimsride-portfolio/static/js/main.2d664442.js.map",
+    "main.2777e17e.css.map": "/rohirrimsride-portfolio/static/css/main.2777e17e.css.map",
+    "main.ce2282af.js.map": "/rohirrimsride-portfolio/static/js/main.ce2282af.js.map",
     "787.7cccd6c0.chunk.js.map": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb54b8f6.css",
-    "static/js/main.2d664442.js"
+    "static/css/main.2777e17e.css",
+    "static/js/main.ce2282af.js"
   ]
 }

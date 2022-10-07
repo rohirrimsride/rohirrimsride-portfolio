@@ -37,7 +37,7 @@ function Projects() {
                         <a href="https://technically-speaking-2022.herokuapp.com/" rel='noreferrer' target="_blank"><img src={TechSpeak} class="project-img" alt="pizza-hunt" /></a>                       
                     </div>
                 </div>
-                <div class="card">
+                <div class="card-reverse">
                     <h3 class="project-title">Photo Port</h3>
                     <div class="card-scaling">
                         <p class="project-info">

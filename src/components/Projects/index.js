@@ -13,7 +13,7 @@ function Projects() {
 
     return (
         <section id="portfolio" class="projects">
-            <h2 class="section-title">Projects</h2>
+            <h2 class="section-title-projects">Projects</h2>
             <div class="project-cards">
                 <div class="card-reverse">
                     <h3 class="project-title">Hobby X Change</h3>

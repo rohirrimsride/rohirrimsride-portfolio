@@ -76,6 +76,12 @@ header nav ul li a {
     font-size: 200%;
 }
 
+.section-title-projects {
+    margin: 1% .5% 0% .5%;
+    padding-right: 1%;
+    font-size: 200%;
+}
+
 /* About me Begins */
 .about-me {
     display: flex;
@@ -116,15 +122,15 @@ header nav ul li a {
     flex-direction: row;
     justify-content: center; 
     border-width: 50%;
-    padding: 0% 1% 1% 1%;
+    padding: 1% 1% 1% 1%;
 }
 
 .project-cards {
     display: flex;
     flex-grow: 1;
-    padding-top: 1%;
+    padding-left: 2%;
     flex-direction: column;
-    margin-left: 2%;
+    border-left: 2px solid var(--border-color);
 }
 
 .card {

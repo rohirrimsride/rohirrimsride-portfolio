@@ -45,7 +45,7 @@ function Projects() {
                             using modals to bring the pictures up close as well as adding a contact form for visitors who would like to get in touch with the photographer.
                         </p>
                         <a href="https://github.com/mherring11/360-sports" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
-                        <a href="https://o360-sports.herokuapp.com/" rel='noreferrer' target="_blank"><img src={PhotoPort} class="project-img" alt="port" /></a>                       
+                        <a href="https://rohirrimsride.github.io/photo-port/" rel='noreferrer' target="_blank"><img src={PhotoPort} class="project-img" alt="port" /></a>                       
                     </div>
                 </div>
                 <div class="card">
@@ -79,7 +79,7 @@ function Projects() {
                             It currently offers the ability to post items that you no longer need or want, or to find items that you do want.
                         </p>
                         <a href="https://github.com/rohirrimsride/photo-port" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
-                        <a href="https://rohirrimsride.github.io/photo-port/" rel='noreferrer' target="_blank"><img src={Sports} class="project-img" alt="port" /></a>                       
+                        <a href="https://o360-sports.herokuapp.com/" rel='noreferrer' target="_blank"><img src={Sports} class="project-img" alt="port" /></a>                       
                     </div>
                 </div>
                 <div class="card-reverse">

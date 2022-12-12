@@ -47,7 +47,7 @@ function Contact() {
             <div className="section-title-container">
                 <h2 className="section-title-contact">Contact</h2>
             </div>
-            <form action="https://formsubmit.co/61ecbc73-5a22-4cb7-8fbb-59f7c0b037d2" method="POST" className="contactForm">
+            <form action="https://formsubmit.co/rohirrimsride@gmail.com" method="POST" className="contactForm">
                 <label for="name">Name:</label>
                 <input type="text" id="name" placeholder={validName} onBlur={checkName} name="name" className="contactInput" />
 

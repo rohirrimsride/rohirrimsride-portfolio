@@ -9,7 +9,7 @@ function Nav({ displayedPage, pageChanger }) {
                     <a 
                         href="#about-me"
                         onClick={() => pageChanger('About')} 
-                        className={displayedPage === 'About' ? 'active-nav' : 'inactive-nav'} >About me
+                        className={displayedPage === 'About' ? 'active-nav' : 'inactive-nav'} >About
                     </a>
                 </li>
                 <li>

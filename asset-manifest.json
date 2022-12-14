@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rohirrimsride-portfolio/static/css/main.7aa49743.css",
-    "main.js": "/rohirrimsride-portfolio/static/js/main.50464510.js",
+    "main.js": "/rohirrimsride-portfolio/static/js/main.056de589.js",
     "static/js/787.7cccd6c0.chunk.js": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js",
     "static/media/photo-port.png": "/rohirrimsride-portfolio/static/media/photo-port.5bff248c1587538241e4.png",
     "static/media/360sports.png": "/rohirrimsride-portfolio/static/media/360sports.7eea54eb358e55b82f37.png",
@@ -17,15 +17,15 @@
     "static/media/technically-speaking.png": "/rohirrimsride-portfolio/static/media/technically-speaking.00c6b27ab3ef62995e5f.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/rohirrimsride-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/hero-bg.jpg": "/rohirrimsride-portfolio/static/media/hero-bg.47933c1b4c27b5d4e33b.jpg",
-    "static/media/IT-Resume.pdf": "/rohirrimsride-portfolio/static/media/IT-Resume.34e28369d7d7ce46862d.pdf",
+    "static/media/DB-Resume.pdf": "/rohirrimsride-portfolio/static/media/DB-Resume.a7cdeb2cc3303cdef29b.pdf",
     "static/media/jot-that-thought.png": "/rohirrimsride-portfolio/static/media/jot-that-thought.249efdd1089e9a5b25cd.png",
     "index.html": "/rohirrimsride-portfolio/index.html",
     "main.7aa49743.css.map": "/rohirrimsride-portfolio/static/css/main.7aa49743.css.map",
-    "main.50464510.js.map": "/rohirrimsride-portfolio/static/js/main.50464510.js.map",
+    "main.056de589.js.map": "/rohirrimsride-portfolio/static/js/main.056de589.js.map",
     "787.7cccd6c0.chunk.js.map": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7aa49743.css",
-    "static/js/main.50464510.js"
+    "static/js/main.056de589.js"
   ]
 }

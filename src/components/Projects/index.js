@@ -1,13 +1,13 @@
 import React from "react";
 
-import JotThatThought from '../../assets/images/jot-that-thought.png';
+// import JotThatThought from '../../assets/images/jot-that-thought.png';
 import PizzaHunt from '../../assets/images/pizza-hunt.png';
 import HobbyXChange from '../../assets/images/hobby-xchange.png';
 import TechSpeak from '../../assets/images/technically-speaking.png';
 import RunBuddy from '../../assets/images/hero-bg.jpg';
 import PhotoPort from '../../assets/images/photo-port.png';
 import GitHub from '../../assets/images/GitHub32.png';
-import Sports from '../../assets/images/360sports.png';
+// import Sports from '../../assets/images/360sports.png';
 
 function Projects() {
 
@@ -59,7 +59,7 @@ function Projects() {
                         <a href="https://dry-thicket-19029.herokuapp.com/" rel='noreferrer' target="_blank"><img src={PizzaHunt} class="project-img" alt="pizza-hunt" /></a>                       
                     </div>
                 </div>
-                <div class="card-reverse">
+                {/* <div class="card-reverse">
                     <h3 class="project-title">Jot That Thought</h3> 
                     <div class="card-scaling">
                         <p class="project-info">
@@ -81,7 +81,7 @@ function Projects() {
                         <a href="https://github.com/rohirrimsride/photo-port" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
                         <a href="https://o360-sports.herokuapp.com/" rel='noreferrer' target="_blank"><img src={Sports} class="project-img" alt="port" /></a>                       
                     </div>
-                </div>
+                </div> */}
                 <div class="card-reverse">
                     <h3 class="project-title">Run Buddy</h3> 
                     <div class="card-scaling">

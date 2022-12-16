@@ -8,9 +8,10 @@ function About() {
                 <h2 class="section-title">About</h2>
                 <div class="about-scaling">    
                     <p>
-                        I'm Dave Barnes.  I am a husband, father and adventurer of the open trail.  I've just completed the first stage of my development journey by completing the UTSA Full Stack Development bootcamp.
-
-                        After working as in IT support for the last six years, I decided I want to know more about "how the sausage is made" in regards to front end development all the way to back end development.
+                        &nbsp;&nbsp;I'm Dave Barnes.  I am a husband, father and adventurer of the open trail.  I've just finished the first stage of my development journey by completing the UTSA Full Stack Development bootcamp, and am currently looking for an employment opportunity to put what I've learned to work.
+                        <br/>
+                        <br/>
+                        &nbsp;&nbsp;After working in IT support for the last six years, I decided I want to dive more into learning and understanding the various levels of web and software creation from front end development to back end development.  
                     </p>
                     <img alt="Dave, backpacking in Glacier Peak Wilderness" src={aboutPic} />
                 </div>

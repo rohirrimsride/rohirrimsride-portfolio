@@ -319,8 +319,8 @@ header nav ul li a {
 /* Footer Ends */
 
 /* media queries for smaller size screens/devices */
-@media screen and (max-width: 1220px) {
-
+@media screen and (max-width: 1350px) {
+/* About section changes start */
     .about-me {
         display: block;
         padding: 0% 1% 1% 1%;
@@ -339,7 +339,9 @@ header nav ul li a {
         border-right: 0px;
         text-align: center;
     }
+/* About section changes end */
 
+/* Portfolio section changes start */
     .section-title {
         margin: 1% .5% 0% .5%;
         padding-right: 1%;
@@ -370,6 +372,7 @@ header nav ul li a {
         justify-content: center;
         text-align: center;
     }
+/* Portfolio section changes start */
 }
 
 @media screen and (max-width: 1030px) {

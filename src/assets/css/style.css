@@ -320,6 +320,7 @@ header nav ul li a {
 
 /* media queries for smaller size screens/devices */
 @media screen and (max-width: 1350px) {
+    
 /* About section changes start */
     .about-me {
         display: block;

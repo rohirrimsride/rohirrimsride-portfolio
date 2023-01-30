@@ -32,7 +32,7 @@ header h1 {
 
 header nav {
     flex: 33%;
-    padding: 0 1%;
+    padding: 0% .5%;
     margin: auto;
 }
 
@@ -365,40 +365,29 @@ header nav ul li a {
     }
 } 
 
-@media screen and (max-width: 1650) {
-    .about-me {
-        display: flex;
-        flex-direction: column;
-        margin: 1%;
-        padding-top: 0%;
-    }
-    
-    .about-scaling {
-        display: flex;
-        margin-top: 1%;
-    }
-
-    .section-title-about {
-        margin: auto .5%;
-        padding-right: 1%;
-        border-right: none;
-        font-size: 200%;
-    }
-} 
-
 @media screen and (max-width: 1650px) {
-    
+
     .about-me {
-        /* padding: 0% 1% 1% 1%; */
+        display: block;
+        padding: 0% 1% 1% 1%;
     }
 
     .bio {
-        display: block;
+        display: flex;
+        flex-direction: row;
+        width: 85%;
+        border-right: none;
+    }
+
+    .bio-sections {
+        flex: 33%;
+        margin: 0% 1%
     }
 
     .about-scaling {
         display: flex;
         flex-direction: column;
+        align-items: center;
         border-bottom: 0px;
         padding-top: 1%;
         padding-bottom: 0%;
@@ -408,16 +397,15 @@ header nav ul li a {
         width: 100%;
         border-right: 0px;
     }
+
+    .about-me img {
+        border-radius: 15px;
+        /* height: 50%; */
+        width: 60%;
+    }
 /* About section changes end */
 
 /* Portfolio section changes start */
-    .section-title {
-        margin: 1% .5% 0% .5%;
-        padding-right: 1%;
-        border-right: 0px solid var(--border-color);
-        font-size: 200%;
-    }
-
     .card, .card-reverse {
         display: block;
         margin: 1%;
@@ -444,33 +432,25 @@ header nav ul li a {
 /* Portfolio section changes start */
 }
 
+@media screen and (max-width: 1250px) {
+    
+    .contactForm {
+        width: 45%;
+    }
+}
+
 @media screen and (max-width: 1030px) {
 
-    /* .about-me {
-        display: block;
-        padding: 0% 1% 1% 1%;
+    .bio {
+        display: flex;
+        flex-direction: column;
+        width: 85%;
+        border-right: none;
     }
 
-    .about-scaling {
-        flex-wrap: wrap;
-        justify-content: center;
-        border-bottom: 0px;
-        padding-top: 1%;
-        padding-bottom: 0%;
+    .about-me img {
+        width: 85%;
     }
-
-    .about-me p {
-        width: 100%;
-        border-right: 0px;
-        text-align: center;
-    }
-
-    .section-title {
-        margin: 1% .5% 0% .5%;
-        padding-right: 1%;
-        border-right: 0px solid var(--border-color);
-        font-size: 200%;
-    } */
 
     header nav {
         display: flex;
@@ -502,6 +482,10 @@ header nav ul li a {
         margin-left: 0%;
         border-top: 3px solid var(--border-color);
         border-left: none;
+    }
+
+    .contactForm {
+        width: 60%;
     }
 }
 
@@ -544,8 +528,15 @@ header nav ul li a {
         text-align: center;
     }
 
-    .contact-form {
+    .contactForm {
         width: 80%;
+    }
+
+    .profs-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 1% 2%;
     }
 }
 
@@ -563,6 +554,7 @@ header nav ul li a {
         flex-direction: row;
         flex-wrap: wrap;
         width: 100%;
+        padding: 0%;
     }
 
     .contact-me {

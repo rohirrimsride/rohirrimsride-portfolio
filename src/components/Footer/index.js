@@ -15,8 +15,11 @@ function Footer() {
                     <a href="https://github.com/rohirrimsride" rel='noreferrer' target="_blank"><img src={GitHub} className="links" alt="github icon" /></a>
                 </div>
             </div>
+            <div>
+                <p className="email">dave.barnes23@gmail.com</p>
+            </div>
             <div class="footer">
-                <h3><span class="h3-start">Built by</span> Dave Barnes</h3>
+                <h3 className="built-by"><span class="h3-start">Built by</span>&nbsp;Dave Barnes</h3>
             </div>
         </footer>
     );

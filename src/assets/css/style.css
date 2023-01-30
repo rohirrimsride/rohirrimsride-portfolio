@@ -78,6 +78,13 @@ header nav ul li a {
     font-size: 200%;
 }
 
+.section-title-about {
+    margin: auto .5%;
+    padding-right: 1%;
+    border-right: 2px solid var(--border-color);
+    font-size: 200%;
+}
+
 .section-title-projects {
     margin: 1% .5% 0% .5%;
     padding-right: 1%;
@@ -95,16 +102,20 @@ header nav ul li a {
     display: flex;
 }
 
-.about-me p {
+.bio {
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-content: space-between;
     flex: 33%;
     border-right: 2px solid var(--border-color);
     margin: 0% 1% 1% 1%;
     padding: 0% 1%;
     width: 40%;
     font-size: 110%;
+}
 
+.bio-section-title {
+    color: var(--secondary-text-color);
 }
 
 .about-me img {
@@ -302,34 +313,92 @@ header nav ul li a {
 }
 
 .links {
-    margin: 10px;
-    
+    margin: 10px;  
 }
 
 .footer {
     border-top: 3px solid var(--border-color);
     display: flex;
+    flex-direction: column;
     justify-content: center;
     margin: 1% 30% 0% 30%;
 }
 
+.built-by {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 .h3-start {
     color: var(--secondary-text-color);
+    margin-bottom: 1%, 0%;
+}
+
+.email {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
 }
 /* Footer Ends */
 
 /* media queries for smaller size screens/devices */
-@media screen and (max-width: 1350px) {
-    
-/* About section changes start */
+@media screen and (max-width: 1800px) {
     .about-me {
+        display: flex;
+        flex-direction: column;
+        margin: 1%;
+        padding-top: 0%;
+    }
+    
+    .about-scaling {
+        display: flex;
+        margin-top: 1%;
+    }
+
+    .section-title-about {
+        margin: auto .5%;
+        padding-right: 1%;
+        border-right: none;
+        font-size: 200%;
+    }
+} 
+
+@media screen and (max-width: 1650) {
+    .about-me {
+        display: flex;
+        flex-direction: column;
+        margin: 1%;
+        padding-top: 0%;
+    }
+    
+    .about-scaling {
+        display: flex;
+        margin-top: 1%;
+    }
+
+    .section-title-about {
+        margin: auto .5%;
+        padding-right: 1%;
+        border-right: none;
+        font-size: 200%;
+    }
+} 
+
+@media screen and (max-width: 1650px) {
+    
+    .about-me {
+        /* padding: 0% 1% 1% 1%; */
+    }
+
+    .bio {
         display: block;
-        padding: 0% 1% 1% 1%;
     }
 
     .about-scaling {
-        flex-wrap: wrap;
-        justify-content: center;
+        display: flex;
+        flex-direction: column;
         border-bottom: 0px;
         padding-top: 1%;
         padding-bottom: 0%;
@@ -338,7 +407,6 @@ header nav ul li a {
     .about-me p {
         width: 100%;
         border-right: 0px;
-        text-align: center;
     }
 /* About section changes end */
 

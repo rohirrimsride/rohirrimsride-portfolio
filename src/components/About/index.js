@@ -20,7 +20,7 @@ function About() {
                         <div class="bio-sections">
                             <h2 class="bio-section-title">What I Like</h2>
                             <p>
-                                &nbsp;&nbsp;I enjoy learning new things and working as part of team.  I value input from people on new technologies, ideas to improve on implementing the technologies I do know and improving best practices.  I try to approach life and work similarly in that there is always something you can learn from those around you.  
+                                &nbsp;&nbsp;I enjoy learning new things and working as part of a team.  I value input from people on new technologies, ideas to improve on implementing the technologies I do know and improving best practices.  I try to approach life and work similarly in that there is always something you can learn from those around you.  
                             </p>
                         </div>
                         <div class="bio-sections">

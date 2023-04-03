@@ -4,9 +4,7 @@ import PageCompiler from './components/PageCompiler';
 function App() {
 
     return (
-        <div>
-            <PageCompiler />
-        </div>
+        <PageCompiler />
     )
 }
 

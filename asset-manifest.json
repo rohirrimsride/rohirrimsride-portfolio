@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/rohirrimsride-portfolio/static/css/main.68620989.css",
-    "main.js": "/rohirrimsride-portfolio/static/js/main.9507a4b0.js",
+    "main.css": "/rohirrimsride-portfolio/static/css/main.939db14d.css",
+    "main.js": "/rohirrimsride-portfolio/static/js/main.82c86cda.js",
     "static/js/787.7cccd6c0.chunk.js": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js",
     "static/media/photo-port.png": "/rohirrimsride-portfolio/static/media/photo-port.5bff248c1587538241e4.png",
     "static/media/about-me-img.jpg": "/rohirrimsride-portfolio/static/media/about-me-img.243d6561d1bed492e0ae.jpg",
     "static/media/space-pic.png": "/rohirrimsride-portfolio/static/media/space-pic.8438a3c9942631e072e6.png",
-    "static/media/pizza-hunt.png": "/rohirrimsride-portfolio/static/media/pizza-hunt.82b8919e6db92fb931b7.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/rohirrimsride-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/rohirrimsride-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/rohirrimsride-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -14,15 +13,14 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/rohirrimsride-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/technically-speaking.png": "/rohirrimsride-portfolio/static/media/technically-speaking.00c6b27ab3ef62995e5f.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/rohirrimsride-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/hero-bg.jpg": "/rohirrimsride-portfolio/static/media/hero-bg.47933c1b4c27b5d4e33b.jpg",
     "static/media/DB-Resume.pdf": "/rohirrimsride-portfolio/static/media/DB-Resume.a7cdeb2cc3303cdef29b.pdf",
     "index.html": "/rohirrimsride-portfolio/index.html",
-    "main.68620989.css.map": "/rohirrimsride-portfolio/static/css/main.68620989.css.map",
-    "main.9507a4b0.js.map": "/rohirrimsride-portfolio/static/js/main.9507a4b0.js.map",
+    "main.939db14d.css.map": "/rohirrimsride-portfolio/static/css/main.939db14d.css.map",
+    "main.82c86cda.js.map": "/rohirrimsride-portfolio/static/js/main.82c86cda.js.map",
     "787.7cccd6c0.chunk.js.map": "/rohirrimsride-portfolio/static/js/787.7cccd6c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68620989.css",
-    "static/js/main.9507a4b0.js"
+    "static/css/main.939db14d.css",
+    "static/js/main.82c86cda.js"
   ]
 }

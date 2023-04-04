@@ -4,17 +4,14 @@
   This is a personal portfolio of projects I've worked on, information about who I am, contact methods and my resume.  Built using React.
 
   ## Table of Contents
-  - [Usage](#usage)
   - [Screenshot](#screenshot)
   - [Deployed Site](#deployedsite)
   - [License](#license)
   - [Questions](#questions)
 
-  ## Usage
-  Checkout my work.
   
   ## Screenshot
-  ![image](https://user-images.githubusercontent.com/96882225/192328438-c90ed1db-49c9-46be-babc-1dc18d140f1d.png)
+  ![image](https://user-images.githubusercontent.com/96882225/229900738-bd8aeecb-30b0-450b-9158-7a1e29135916.png)
 
 
   ## Deployed Site
